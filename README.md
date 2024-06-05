@@ -1,3 +1,4 @@
+![diagram entrega_sp6](https://github.com/ArthurClaro/m4-KImoveis/assets/124170421/20d7c611-fa30-468e-91c8-a2b72c9fe568)
 # Projeto Final: KImóveis - TypeORM com Relacionamentos
 
 ## Introdução
